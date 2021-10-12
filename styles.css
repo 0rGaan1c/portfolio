@@ -1,0 +1,14 @@
+:root {
+  font-family: "PT Sans", sans-serif;
+}
+
+body {
+  width: 50%;
+  margin: 200px auto;
+  background-color: honeydew;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
